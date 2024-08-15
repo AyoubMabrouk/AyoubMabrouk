@@ -4,14 +4,9 @@
   innovation, and solving complex problems <br>through the power of analytics and Machine Learning.</h3>
 <h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img
+<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=AyoubMabrouk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-    height="150" alt="stats graph" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubMabrouk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-    height="150" alt="languages graph" />
-</div>
+    height="150" alt="stats graph" />
 
 <h4 align="left"> - 🌱 I’m currently learning **Deep Learning & AI** </h4>
 
