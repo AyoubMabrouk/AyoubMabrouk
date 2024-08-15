@@ -88,7 +88,7 @@
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center"
+<img align="center" width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmabrouk&show_icons=true&locale=en&layout=compact"
-    alt="ayoubmabrouk" /></p>
+    alt="ayoubmabrouk" />
 
