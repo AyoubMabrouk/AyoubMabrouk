@@ -46,7 +46,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r programming"
       width="40" height="40" /> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+      src="https://raw.githubusercontent.com/AyoubMabrouk/PublicPhotos/main/flaskIcon.png" alt="flask" width="40" height="40" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
