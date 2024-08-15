@@ -5,7 +5,7 @@
   <br>
 <h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
 
-<p align="center"><img width="100%"
+<p align="center"><img width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmabrouk&show_icons=true&locale=en&layout=compact"
     alt="ayoubmabrouk" /></p>
 
