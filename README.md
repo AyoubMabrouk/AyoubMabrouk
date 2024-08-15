@@ -1,10 +1,10 @@
 <h1 align="center">Hey 🌹, I'm Ayoub MABROUK</h1> </br>
-<h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
 
 <img align="right" src="https://raw.githubusercontent.com/AyoubMabrouk/PublicPhotos/main/githubimage.gif" alt="GithubImage" width="200" height="150" />
 <h3 align="center">A passionate Data Analyst & Scientist committed to transforming data into actionable insights, driving
   innovation, and solving complex problems <br>through the power of analytics and Machine Learning.</h3>
   <br>
+<h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
 
 <p align="center"><img width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmabrouk&show_icons=true&locale=en&layout=compact"
