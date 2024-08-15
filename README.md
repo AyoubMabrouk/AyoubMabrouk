@@ -14,9 +14,9 @@
 </div>
 <br><br>
 
-- 🌱 I’m currently learning **Deep Learning & AI**
+<h4 align="left"> - 🌱 I’m currently learning **Deep Learning & AI** </h4>
 
-- 👯 I’m looking to collaborate on **Freelance / remote jobs**
+<h4 align="left"> - 👯 I’m looking to collaborate on **Freelance / remote jobs** </h4>
 
 - LinkedIN [https://www.linkedin.com/in/ayoub-mabrouk-erp-bi/](https://www.linkedin.com/in/ayoub-mabrouk-erp-bi/)
 
