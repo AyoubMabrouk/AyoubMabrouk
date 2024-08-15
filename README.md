@@ -2,7 +2,7 @@
 <img align="right" src="https://raw.githubusercontent.com/AyoubMabrouk/PublicPhotos/main/githubimage.gif" alt="GithubImage" width="200" height="150" />
 <h3 align="center">A passionate Data Analyst & Scientist committed to transforming data into actionable insights, driving
   innovation, and solving complex problems <br>through the power of analytics and Machine Learning.</h3>
-- 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)
+<h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
 
 <div align="center">
   <img align="left"
