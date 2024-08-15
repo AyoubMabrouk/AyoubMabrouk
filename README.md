@@ -4,9 +4,9 @@
   innovation, and solving complex problems <br>through the power of analytics and Machine Learning.</h3>
 <h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
 
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=AyoubMabrouk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-    height="150" alt="stats graph" />
+<p align="center"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmabrouk&show_icons=true&locale=en&layout=compact"
+    alt="ayoubmabrouk" /></p>
 
 <h4 align="left"> - 🌱 I’m currently learning **Deep Learning & AI** </h4>
 
