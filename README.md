@@ -16,7 +16,7 @@
 
 - LinkedIN [https://www.linkedin.com/in/ayoub-mabrouk-erp-bi/](https://www.linkedin.com/in/ayoub-mabrouk-erp-bi/)
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 My top projects are available at
 [https://ayoub-mabrouk-portfolio.vercel.app/](https://ayoub-mabrouk-portfolio.vercel.app/)
 
 - 💬 Ask me about **Machine Learning, Python, R, Flask, Power BI, Angular**
