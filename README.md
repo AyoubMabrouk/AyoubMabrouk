@@ -37,7 +37,7 @@
   <a href="mailto:ayoubmabrouk149@gmail.com" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/AyoubMabrouk/PublicPhotos/main/mailIcon.png" alt="email"
           height="35" width="45" /></a>&nbsp;_&nbsp;
-  <a href="https://www.youtube.com/c/ayoubmabrouk149" target="blank"><img align="center"
+  <a href="https://www.youtube.com/@ayoubmabrouk149" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="ayoubmabrouk149" height="40" width="40" /></a>
 </p>
