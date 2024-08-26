@@ -30,7 +30,7 @@
   <a href="https://wa.me/21650889314" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/AyoubMabrouk/PublicPhotos/main/whatsappIcon.png"
       alt="WhatsApp" height="40" width="40" /></a> &nbsp;_&nbsp;
-  <a href="https://linkedin.com/in/ayoub mabrouk" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/ayoub-mabrouk-erp-bi/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ayoub mabrouk" height="40" width="40"/></a>
       &nbsp;_&nbsp;
