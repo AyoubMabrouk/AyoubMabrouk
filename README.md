@@ -4,7 +4,7 @@
 <h3 align="center">A passionate <strong>Data Analyst & Scientist</strong> committed to transforming data into actionable insights, driving
   innovation, and solving complex problems <br>through the power of analytics and Machine Learning.</h3>
   <br>
-<h4 align="left"> - 🔭 I’m currently working as Data Analyst & Scientist engineer @ LEONI Wiring Systems (https://www.leoni.com/)</h4>
+<h4 align="left"> - 🔭 I work as Data Analyst & Scientist engineer </h4>
 
 <img width="30%" align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmabrouk&show_icons=true&locale=en&layout=compact"
