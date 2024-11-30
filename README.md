@@ -12,7 +12,7 @@
 
 <h4 align="left"> - 🌱 I’m currently learning **Deep Learning & AI** </h4>
 
-<h4 align="left"> - 👯 I’m looking to collaborate on **Freelance / remote jobs** </h4>
+<h4 align="left"> - 👯 I’m looking to collaborate on **Full Time / Freelance / remote jobs** </h4>
 
 - LinkedIN [https://www.linkedin.com/in/ayoub-mabrouk-bi/](https://www.linkedin.com/in/ayoub-mabrouk-bi/)
 
