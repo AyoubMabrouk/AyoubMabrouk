@@ -14,7 +14,7 @@
 
 <h4 align="left"> - 👯 I’m looking to collaborate on **Freelance / remote jobs** </h4>
 
-- LinkedIN [https://www.linkedin.com/in/ayoub-mabrouk-erp-bi/](https://www.linkedin.com/in/ayoub-mabrouk-erp-bi/)
+- LinkedIN [https://www.linkedin.com/in/ayoub-mabrouk-bi/](https://www.linkedin.com/in/ayoub-mabrouk-bi/)
 
 - 👨‍💻 My top projects are available at
 [https://ayoub-mabrouk-portfolio.vercel.app/](https://ayoub-mabrouk-portfolio.vercel.app/)
