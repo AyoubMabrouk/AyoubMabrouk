@@ -10,7 +10,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubmabrouk&show_icons=true&locale=en&layout=compact"
     alt="ayoubmabrouk" />
 
-<h4 align="left"> - 🌱 I’m currently learning **Deep Learning & AI** </h4>
+<h4 align="left"> - 🌱 I’m currently learning **Reinforcement Learning** </h4>
 
 <h4 align="left"> - 👯 I’m looking to collaborate on **Full Time / Freelance / remote jobs** </h4>
 
@@ -19,7 +19,7 @@
 - 👨‍💻 My key projects are available at
 [https://ayoub-mabrouk-portfolio.vercel.app/](https://ayoub-mabrouk-portfolio.vercel.app/)
 
-- 💬 Ask me about **Machine Learning, Python, R, Flask, Power BI, Angular**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, R, Flask, Power BI, Angular**
 
 - 📫 How to reach me : **ayoubmabrouk149@gmail.com**
 
